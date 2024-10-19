@@ -1,0 +1,423 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 5911px;
+
+background: #009146;
+
+
+/* Real - Time Location */
+
+position: absolute;
+width: 680px;
+height: 84px;
+left: 130px;
+top: 5002px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 56px;
+line-height: 84px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Our Transplanter */
+
+position: absolute;
+width: 974px;
+height: 1545px;
+left: 233px;
+top: 3426px;
+
+
+
+/* VideoCapture_20240526-204440 1 */
+
+position: absolute;
+width: 974px;
+height: 705px;
+left: 233px;
+top: 4266px;
+
+background: url(VideoCapture_20240526-204440.jpg);
+
+
+/* Our Automated Multi Vegetable Transplanter is a revolutionary agricultural tool designed to optimize the planting process. Featuring a fully automated system, our transplanter streamlines operations by efficiently handling tasks from raised bed formation to soil covering. Equipped with advanced NAVIC real-time location technology, our transplanter ensures precise sapling placement. The synchronized gear-based mechanism guarantees optimal power transmission, enhancing efficiency and reducing energy consumption. By automating labor-intensive tasks, our transplanter helps farmers increase productivity, reduce costs, and improve overall crop yields. */
+
+position: absolute;
+width: 966.49px;
+height: 563px;
+left: 233px;
+top: 3639px;
+
+/* Body */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Our Transplanter */
+
+position: absolute;
+width: 770px;
+height: 113px;
+left: 333px;
+top: 3426px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 113px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 974px;
+height: 1550px;
+left: 233px;
+top: 1282px;
+
+
+
+/* IMG-20240520-WA0020 2 */
+
+position: absolute;
+width: 974px;
+height: 705px;
+left: 233px;
+top: 2127px;
+
+background: url(IMG-20240520-WA0020.jpg);
+
+
+/* Club Naivedya is dedicated to innovative solutions for sustainable agriculture. As a student organization, we foster a collaborative environment where students from diverse backgrounds work together to develop innovative methods and technologies for sapling plantation. Our members actively contribute to brainstorming sessions, combining their unique perspectives to ensure our mechanical tools align with the latest technical advancements. We believe in harnessing technology to enhance and optimize the art of planting. Join Club Naivedya and be part of a movement that's shaping a greener future. */
+
+position: absolute;
+width: 970.48px;
+height: 563px;
+left: 233px;
+top: 1431px;
+
+/* Body */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 672.05px;
+height: 113px;
+left: 412.17px;
+top: 1282px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 113px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Navbar */
+
+position: absolute;
+width: 974px;
+height: 88px;
+left: 233px;
+top: 945px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 974px;
+height: 88px;
+left: 233px;
+top: 945px;
+
+background: rgba(171, 171, 171, 0.67);
+
+
+/* Group 2 */
+
+position: absolute;
+width: 893px;
+height: 48px;
+left: 276px;
+top: 965px;
+
+
+
+/* Home */
+
+position: absolute;
+width: 96px;
+height: 48px;
+left: 276px;
+top: 965px;
+
+/* Body */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Our Transplanter */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 653px;
+top: 965px;
+
+/* Body */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Contact Us */
+
+position: absolute;
+width: 177px;
+height: 48px;
+left: 992px;
+top: 965px;
+
+/* Body */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 143px;
+height: 48px;
+left: 441px;
+top: 965px;
+
+/* Body */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Landing Page */
+
+position: absolute;
+width: 780px;
+height: 269px;
+left: 330px;
+top: 427px;
+
+
+
+/* A Student-Driven Engineering Club from SGSITS working for Agricultural Advancements with our Transplanter Technology. */
+
+position: absolute;
+width: 749.78px;
+height: 144px;
+left: 360.23px;
+top: 552px;
+
+/* Body */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+
+/* Club Naivedya */
+
+position: absolute;
+width: 663px;
+height: 113px;
+left: 330px;
+top: 427px;
+
+/* H1 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 113px;
+text-align: center;
+
+color: #FFFACD;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 1180px;
+height: 178px;
+left: 130px;
+top: 0px;
+
+
+
+/* Naivedya (2) 1 */
+
+position: absolute;
+width: 280px;
+height: 178px;
+left: 130px;
+top: 0px;
+
+background: url(Naivedya (2).png);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 280px;
+height: 106px;
+left: 1030px;
+top: 36px;
+
+
+
+/* instagram-2016-5 1 */
+
+position: absolute;
+width: 103.78px;
+height: 106px;
+left: 1030px;
+top: 36px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: radial-gradient(130.55% 130.54% at 13.29% 100.47%, #FA8F21 9%, #D82D7E 78%);
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: radial-gradient(102.89% 102.88% at 60.65% 104.95%, rgba(140, 58, 170, 0) 64%, #8C3AAA 100%);
+
+
+/* Group 1 */
+
+position: absolute;
+width: 103.78px;
+height: 106px;
+left: 1206.22px;
+top: 36px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 84.31%;
+right: 9.72%;
+top: 0.83%;
+bottom: 97.74%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.77%;
+right: 9.03%;
+top: 0.61%;
+bottom: 97.6%;
+
+background: #0A66C2;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.82%;
+right: 10.16%;
+top: 0.91%;
+bottom: 97.89%;
+
+background: #FFFFFF;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 174px;
+left: 0px;
+top: 5737px;
+
+background: #024C26;
